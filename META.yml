@@ -30,4 +30,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: https://github.com/n0body-/lucyx-simple.git
-version: 0.006
+version: 0.007
